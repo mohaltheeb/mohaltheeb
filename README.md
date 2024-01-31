@@ -39,11 +39,9 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 
 <hr />
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohaltheeb_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohaltheeb=radical" />
-</p>  
 
+[![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=mohaltheeb&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohaltheeb&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <picture>
@@ -52,7 +50,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<hr />
 
 <!--
 **mohaltheeb/mohaltheeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
