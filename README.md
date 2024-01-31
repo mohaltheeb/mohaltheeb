@@ -1,8 +1,10 @@
 <h1 align="center" > Hi, I am Mohammed Altheeb 👋</h1>
 <h3 align="center">I'm a Full-Stack developer and UI/UX Designer from Yemen ⭐ </h3>
-<hr/>
+<br/>
 
 ![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
+<br/>
+<br/>
 
 
 - 🔭 I’m currently working on **Graduation Project at Sana'a University** 
@@ -10,6 +12,8 @@
 - 👯 I’m looking to collaborate on **FOSS**
 - 📫 How to reach me **📧 Email/altheebinfo@gmail.com**
 
+<br/>
+<br/>
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
@@ -19,6 +23,9 @@
 <a href="https://wa.me/967775355805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammed-altheeb-1bb717226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>
+
+<br/>
+<br/>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center"> 
@@ -35,10 +42,16 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 
+<br/>
+<br/>
+
 <hr />
 
 [![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=mohaltheeb&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohaltheeb&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
 
 
 <picture>
