@@ -1,4 +1,4 @@
-<h1 align="center" > Hi, I am Mohammed Muammar 👋</h1>
+<h1 align="center" > Hi, I am Mohammed Altheeb 👋</h1>
 <h3 align="center">I'm a Full-Stack developer and UI/UX Designer from Yemen ⭐ </h3>
 <hr/>
 
@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on **Graduation Project at Sana'a University** 
 - 🌱 I’m currently learning **Frappe Framework & ERPNext**
 - 👯 I’m looking to collaborate on **FOSS**
-- ✨ All of my projects are available at [github.com/mohaltheeb](github.com/mohaltheeb)
 - 📫 How to reach me **📧 Email/altheebinfo@gmail.com**
 
 <hr/>
