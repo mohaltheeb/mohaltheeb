@@ -18,9 +18,9 @@
 <a href="https://x.com/MOHAALTHEEB?t=K9rlJqwbh95cC8pVrt3GJA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
 <a href="https://www.facebook.com/AbnSanaa10?mibextid=9R9pXO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/moha_altheeb?igsh=MWpreDhpM3A1bjg4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://wa.me/967775355805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammed-altheeb-1bb717226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>
-
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,6 +39,10 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 
 <hr />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohaltheeb_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohaltheeb=radical" />
+</p>  
 
 
 
