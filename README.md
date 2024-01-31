@@ -1,15 +1,16 @@
 <h1 align="center" > Hi, I am Mohammed Muammar 👋</h1>
 <h3 align="center">I'm a Full-Stack developer and UI/UX Designer from Yemen ⭐ </h3>
+<hr/>
 
 ![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
 <hr/>
 
-- 🔭 I’m currently working on **Graduation Project at Sana'a University ** 
-- 🌱 I’m currently learning **Frappe Framework & ERPNext*
-- 👯 I’m looking to collaborate on ** FOSS **
+- 🔭 I’m currently working on **Graduation Project at Sana'a University** 
+- 🌱 I’m currently learning **Frappe Framework & ERPNext**
+- 👯 I’m looking to collaborate on **FOSS**
 - ✨ All of my projects are available at [github.com/mohaltheeb](github.com/mohaltheeb)
-- 📫 How to reach me ** 📧 Email/altheebinfo@gmail.com**
+- 📫 How to reach me **📧 Email/altheebinfo@gmail.com**
 
 <hr/>
 
@@ -33,7 +34,6 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -41,16 +41,7 @@
 
 <hr />
 
-### 👀 visitor count
 
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
-
-<hr />
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its4nas&" alt="its4nas" /></p>
-
-<hr />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
