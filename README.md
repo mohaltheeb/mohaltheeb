@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/MOHAALTHEEB?t=K9rlJqwbh95cC8pVrt3GJA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MOHAALTHEEB" height="30" width="40" /></a>
-<a href="https://www.facebook.com/AbnSanaa10?mibextid=9R9pXO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohaltheeb" height="30" width="40" /></a>
-<a href="https://instagram.com/moha_altheeb?igsh=MWpreDhpM3A1bjg4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moha_altheeb" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammed-altheeb-1bb717226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mohammed-altheeb" height="30" width="40" /></a>
+<a href="https://x.com/MOHAALTHEEB?t=K9rlJqwbh95cC8pVrt3GJA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
+<a href="https://www.facebook.com/AbnSanaa10?mibextid=9R9pXO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/moha_altheeb?igsh=MWpreDhpM3A1bjg4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammed-altheeb-1bb717226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>
 
 <hr/>
