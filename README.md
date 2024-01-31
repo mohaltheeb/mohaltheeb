@@ -4,14 +4,12 @@
 
 ![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
-<hr/>
 
 - 🔭 I’m currently working on **Graduation Project at Sana'a University** 
 - 🌱 I’m currently learning **Frappe Framework & ERPNext**
 - 👯 I’m looking to collaborate on **FOSS**
 - 📫 How to reach me **📧 Email/altheebinfo@gmail.com**
 
-<hr/>
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
@@ -23,7 +21,7 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
-<p align="left"> 
+<p align="center"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
