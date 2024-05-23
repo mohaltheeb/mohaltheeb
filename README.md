@@ -1,5 +1,5 @@
 <h1 align="center" > Hi Everyone, I am Mohammed Altheeb 👋</h1<br/>
-<h3 align="center">I'm a Full-Stack developer and UI/UX Designer from Yemen ⭐ </h3>
+<h3 align="center">I'm a Web Full-Stack Developer from Yemen ⭐ </h3>
 <br/>
 <br/>
 
