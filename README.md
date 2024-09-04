@@ -8,19 +8,18 @@
 <br/>
 
 
-- 🔭 I’m currently working on **Graduation Project at Sana'a University** 
-- 🌱 I’m currently learning **Frappe Framework & ERPNext**
+- 🔭 I’m currently working as **Software engineer** 
 - 👯 I’m looking to collaborate on **FOSS**
-- 📫 How to reach me **📧 Email/altheebinfo@gmail.com**
+- 📫 How to reach me **📧 Email/altheebdev@gmail.com**
 <br/>
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://x.com/MOHAALTHEEB?t=K9rlJqwbh95cC8pVrt3GJA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
-<a href="https://www.facebook.com/AbnSanaa10?mibextid=9R9pXO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/moha_altheeb?igsh=MWpreDhpM3A1bjg4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohaaltheeb?mibextid=9R9pXO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/mohaltheeb?igsh=MWpreDhpM3A1bjg4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://wa.me/967775355805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammed-altheeb-1bb717226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohaltheeb-1bb717226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>
 <br/>
 
