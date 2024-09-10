@@ -14,13 +14,12 @@
 <br/>
 
 <h2 align="left">Connect with me:</h2>
-<p align="center">
-<a href="https://x.com/MOHAALTHEEB?t=K9rlJqwbh95cC8pVrt3GJA&s=09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mohaaltheeb?mibextid=9R9pXO" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/mohaltheeb?igsh=MWpreDhpM3A1bjg4Mg==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://wa.me/967775355805" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohaltheeb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
-</p>
+<!-- ## 🌐 Socials -->
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohaltheeb/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+967775355805)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mohaltheeb) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/mohaltheeb)
+
+</div>
 <br/>
 
 <h2 align="left">Languages and Tools:</h2>
